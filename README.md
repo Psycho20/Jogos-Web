@@ -5,5 +5,5 @@
 
 [CRIAÇÃO-SVG](https://psycho20.github.io/Jogos-Web/CRIAÇÃO-SVG/BANDEIRA.HTML)
 
-[ANIMAÇÃO-SVG](https://psycho20.github.io/Jogos-Web/ANIMAÇÃO-SVG/ANIMATIONS.HTML)
+[ANIMAÇÃO-SVG](https://psycho20.github.io/Jogos-Web/ANIMAÇÃO-SVG/ANIMATIONS.html)
 
